@@ -1,0 +1,51 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "#Hierarchical Modeling\n",
+    "## Hierarchical Clustering\n",
+    "## Decision Tree / Random Forest\n",
+    "## Neural Networks\n",
+    "\n",
+    "#Optimization Methods\n",
+    "## Gradient Descent\n",
+    "## Simplex\n",
+    "## Dijkstra Algorithm (Travelling Salesman)\n",
+    "\n",
+    "#Correlations And Regressions\n",
+    "## Correlation coefficient:\n",
+    "### Pearson\n",
+    "### Spearman\n",
+    "### Kendall\n",
+    "## Linear Regression\n",
+    "### Linearizable Relationships\n",
+    "### Logistic Regression\n",
+    "### Quantile Regression\n",
+    "## Hierarchical Bayesian (HB) regression\n"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 2",
+   "language": "python",
+   "name": "python2"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 2
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython2",
+   "version": "2.7.9"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 0
+}
